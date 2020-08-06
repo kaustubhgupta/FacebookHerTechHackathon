@@ -1,5 +1,5 @@
 # FacebookHerTechHackathon
-
+![](https://github.com/kaustubhgupta/FacebookHerTechHackathon/blob/master/demo.PNG)
 ## A Brief History
 I participated in this hackathon in 2019. I tried to build an android app using MIT APP inventor. The app was supposed to use Facebook API to get information about users but at the time of finalizig the app, I did'nt got the API access. This is a very begineer approch to a hackathon as I was not aware of most of the tools and technologies and I was rather a newbie in coding. As it was my first ever hackathon, I want to keep it as a learning memory. The app is still working but it a demo app rather than a fully working prototype.
 
@@ -15,3 +15,7 @@ The user gets to record a video, capture image. Actually, we will be giving auto
 - MIT App inventor
 - Basic Programming
 - Facebook API
+
+## Some Links
+- Try this app here: [Link](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+- Article about my experience in this hackathon: [Link](https://www.kaustubhgupta.xyz/post/first-ever-hackathon-experience)
